@@ -2,7 +2,7 @@
 
 End of week one project, 10.12.2018
 
-#### By 
+#### By
 
 Charles Robertson
 
@@ -12,7 +12,7 @@ This my first website and it has a list of my first projects, a work history, my
 
 ## Setup/Installation Requirements
 
-Open in your web browser
+Click here to http
 
 
 ## Known Bugs
@@ -25,11 +25,11 @@ Questions or concerns please email me at xequah@yahoo.com.
 
 ## Technologies Used
 
-HTML
-CSS
-Bootstrap
+HTML,
+CSS,
+and Bootstrap
 
 ### License
 
 This software is licensed under the MIT license.
-Copyright (c) 2016
+Copyright (c) 2018
