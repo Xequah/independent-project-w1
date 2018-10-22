@@ -1,10 +1,8 @@
 # Charles Robertson
 
-#### _{Brief description of application}, {Date of current version}_
-
 End of week one project, 10.12.2018
 
-#### By _**{List of contributors}**_
+#### By 
 
 Charles Robertson
 
