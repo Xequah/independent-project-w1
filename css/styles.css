@@ -1,0 +1,26 @@
+body {
+background-color: lightblue;
+}
+
+img {
+    float: right;
+}
+
+p.about {
+  font-family: sans-serif;
+}
+
+.important {
+  color: #9C3ABC ;
+  font-wieght: bold;
+  font-style:italic;
+
+}
+
+.native {
+  color red;
+  font-weight: bolder;
+  font-style: oblique;
+
+
+}
