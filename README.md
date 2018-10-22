@@ -12,7 +12,7 @@ This my first website and it has a list of my first projects, a work history, my
 
 ## Setup/Installation Requirements
 
-Click here to http
+Click here to https://xequah.github.io/independent-project-w1/
 
 
 ## Known Bugs
